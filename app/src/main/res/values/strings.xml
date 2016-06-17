@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		
+	<string name="app_name">NammaSIT</string>
+	<string name="btn_return">Return</string>
+	<string name="btn_next">Next</string>
+	<string name="dialog_tips">Notice</string>
+	<string name="btn_finish">Save</string>
+	<string name="btn_yes">Confirm</string>
+	<string name="btn_cancel">Cancel</string>
+	<string name="dialog_loading">Loading please wait&#8230;</string>
+	<string name="dialog_loading_failue">loading failure&#8230;</string>
+	
+	<string name="welcome_btn_login">Login</string>
+	
+	<string name="login_hint_nickname">Enter your USN</string>
+	<string name="login_text_onlinestate">Online</string>
+	<string name="login_text_birthday">Date of birth</string>
+	<string name="login_text_age">Years old</string>
+	<string name="login_text_birthdaytips">Reminder: Your date of birth will not appear in your profile</string>
+	<string name="login_text_selectsex">Gender</string>
+	<string name="login_text_male">Male</string>
+	<string name="login_text_female">Female</string>
+	<string name="login_text_lastlogin">Last Login: </string>
+	<string name="login_text_changeuser">Replacement account</string>
+	<string name="login_dialog_saveInfo">Personal information is being stored…&#8230;</string>
+	<string name="login_toast_loginfailue">Operation failed, please try to restart the program.</string>
+	<string name="login_toast_nickname">Please, Enter Your Username</string>
+	<string name="login_toast_sex">Please, choose gender</string>
+	
+	<string name="wifiap_btn_connectwifi">Connected</string>
+	<string name="wifiap_btn_disconnect">Click Disconnect</string>
+	<string name="wifiap_btn_createap">Creating hotspots</string>
+	<string name="wifiap_btn_closeap">Close hotspots</string>
+	<string name="wifiap_btn_connecting">connecting </string>
+	<string name="wifiap_text_wifi_connected">Connected to</string>
+	<string name="wifiap_text_wifi_disconnect">WiFi Connection has been disconnected</string>
+	<string name="wifiap_text_ap_0">Hot Closed</string>
+	<string name="wifiap_text_ap_1">Turned hot</string>
+	<string name="wifiap_text_wifi_0">WiFi Unopened</string>
+	<string name="wifiap_text_wifi_1_0">WiFi Turned on, not connected</string>
+	<string name="wifiap_text_createap_failue">createap_failue</string>
+	<string name="wifiap_text_createap_creating">Creating hotspots…</string>
+	<string name="wifiap_text_createap_succeed">Hot create success!</string>
+
+	<string name="wifiap_dialog_closeap_confirm">Are you sure you need to turn off the hot?</string>
+	<string name="wifiap_dialog_createap_closewifi_confirm">Creating hotspots will close the current WiFi, confirm to continue?</string>
+	<string name="wifiap_dialog_createap_nonsupport">Your device does not support the creation hotspots</string>
+	<string name="wifiap_dialog_login_saveInfo">Connection information is stored…</string>
+	<string name="wifiap_diolog_showpwd">Show password</string>
+
+	<string name="wifiap_dialog_createap_used">wifiap_dialog_createap_used</string>
+	<string name="wifiap_dialog_searchap_closeap_confirm">wifiap_dialog_searchap_closeap_confirm？</string>
+
+	<string name="wifiap_hint_connectap_pwd">Please enter the connection password</string>
+
+
+	<string name="wifiap_toast_connectap_error">Connection error, please check the password and then try to connect.</string>
+	<string name="wifiap_toast_connectap_error_1">Connection error, try to reconnect.</string>
+	<string name="wifiap_toast_connectap_unavailable">Please create a hotspot or connect a hotspot</string>
+
+	<string name="chat_btn_send">Send</string>
+	<string name="chat_dialog_record_cancel_move">Slide the recording cancel</string>
+	<string name="chat_dialog_record_cancel_up">Release your finger to cancel recordings</string>
+	<string name="chat_text_plus_file">File</string>
+	<string name="chat_text_plus_image">Picture</string>
+	<string name="chat_text_plus_takephoto">Take Photo</string>
+	<string name="chat_toast_record_shorttime">Recording time is too short to fail</string>
+
+	<string name="otherpprofile_text_device">Equipment Type:</string>
+	<string name="otherpprofile_text_ip">IPAddress:</string>
+	<string name="otherpprofile_text_userinfo">Account information</string>
+
+	<string name="setting_text_sysconfig">setting_text_sysconfig</string>
+	<string name="setting_text_sysconfig_aboutus">setting_text_sysconfig</string>
+	<string name="setting_text_myprofile">My Profile</string>
+	<string name="setting_text_myprofile_avatar">Please select your picture</string>
+	<string name="setting_text_profile">Profile</string>
+	<string name="setting_text_sysconfig_sound">Sound alert</string>
+	<string name="setting_text_sysconfig_vibra">Vibration alert</string>
+
+	<string name="setting_btn_aboutus">About us</string>
+	<string name="setting_btn_cleandb">Remove cache</string>
+	<string name="setting_btn_closeapp">Close</string>
+
+	<string name="setting_dialog_chatlog_deleting">Deleting chats…&#8230;</string>
+	<string name="setting_dialog_chatlog_delete_cancel">Nope</string>
+	<string name="setting_dialog_chatlog_delete_confirm">All images will be deleted! Delete chats received, voice, file?</string>
+	<string name="setting_dialog_chatlog_delete_ok">Yep</string>
+	<string name="setting_dialog_logout_cancel">Cancel</string>
+	<string name="setting_dialog_logout_confirm">Are you sure?</string>
+	<string name="setting_dialog_logout_ok">Confirm</string>
+	<string name="setting_dialog_toast_delect_failue">Operation failed, please try to restart the program.</string>
+	<string name="setting_dialog_toast_delect_success">Delete chats success</string>
+
+	<string name="aboutus_copyright">Copyright © 2016 By The Liars</string>
+
+	<string name="aboutus_text">\u0020\u0020\u0020\u0020 Nou can now find people who are present around the same WiFi access point as yours and indulge in a friendly chit-chat with them. This amazing app from TheLiars works quite smoothly and serves as a readily available chatting platform for the users. With NammaSIT , you can share stories, pics and files with your friends and strangers alike without having to send text messages over your mobile network.</string>
+	<string name="aboutus_text2">By The Liars SIT tumakuru</string>
+
+	<string name="maintab_text_emptypage">No content</string>
+	<string name="maintab_text_message">News</string>
+	<string name="maintab_text_nearby">Friends</string>
+	<string name="maintab_text_setting">Setting</string>
+	<string name="maintab_toast_logout">Press again to exit</string>
+
+    <string name="lv_refresh_end_load_more">More</string>
+    <string name="lv_refresh_end_click_load_more">Click Load</string>
+    <string name="lv_refresh_doing_end_refresh">Loading&#8230;</string>
+    <string name="lv_refresh_doing_head_refresh">Refreshing…</string>
+	<string name="lv_refresh_head_load_more">Load more</string>
+	<string name="lv_refresh_pull_to_refresh">Refresh dropdown</string>
+	<string name="lv_refresh_refresh_lasttime">Recently Updated : </string>
+	<string name="lv_refresh_release_refresh">Refresh release</string>
+
+
+	<string name="text_file_send_select">Please select the file you want to send</string>
+
+	<string name="toast_file_manager_unavailable">Missing File Manager</string>
+
+	<string name="toast_sdcard_unavailable">SD card is not available, please check</string>
+
+	<string name="current_path_label">Current path: </string>
+
+	<string name="select_path_for_save">Choose to receive a file folder</string>
+
+	<string name="no_file">No files</string>
+
+	<string name="accept">Accept</string>
+
+	<string name="close">Shut down</string>
+
+</resources>

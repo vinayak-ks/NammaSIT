@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="onlinestate_type">
+		<item>Online</item>
+		<item>Busy</item>
+		<item>Stealth</item>
+		<item>Offline</item>
+	</string-array>
+    <color name="background_normal">#fffffbf0</color>
+    <color name="background_normal_press">#ffece7da</color>
+    <color name="bg_sitespan">#ffece7d9</color>
+    <color name="bg_sitespan_press">#ffe0dbce</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0f81d9</color>
+    <color name="devideline">#ffd0c9b8</color>
+    <color name="devideline_listview">#ffe5e2d4</color>
+    <color name="dialog_backgroud_full">#6d000000</color>
+    <color name="dialog_divider">#ffbfcbd3</color>
+    <color name="dialog_listitem_press">#ffd0dce4</color>
+    <color name="download_progressbar_bg">#4c000000</color>
+    <color name="drap_bar_word_color">#ff3e7ec8</color>
+    <color name="font_attribute">#ff000000</color>
+    <color name="font_value">#ff888271</color>
+    <color name="gender_famal">#ffffaed8</color>
+    <color name="gender_male">#ff65b1ea</color>
+    <color name="gold">#000000</color>
+    <color name="gray">#ff7f7f7f</color>
+    <color name="gray_f0f0f0">#f0f0f0</color>
+    <color name="light_notes_color">#ff999999</color>
+    <color name="link_color">#ff4abad7</color>
+    <color name="maintab_text_normal">#ffc1c1c1</color>
+    <color name="maintab_text_selected_color">#ffffffff</color>
+    <color name="menu_text">#ff555555</color>
+    <color name="msg_editor_backgroud">#ffececec</color>
+    <color name="msg_emote_divider">#ffa1a1a1</color>
+    <color name="msg_plus_item_press">#ff1d1d1d</color>
+    <color name="msg_short_line_normal">#ffafafaf</color>
+    <color name="msg_short_line_selected">#ff5cbde3</color>
+    <color name="msg_status_failed">#ffe64646</color>
+    <color name="msg_status_new">#fffff2cc</color>
+    <color name="msg_status_new_stroke">#ffff9b2f</color>
+    <color name="msg_status_read">#ff82c85f</color>
+    <color name="msg_status_sending">#ff50a5c3</color>
+    <color name="msg_status_sent">#ffeb7837</color>
+    <color name="notes_color">#ff777777</color>
+    <color name="profile_avater_cover_normal">#00000000</color>
+    <color name="profile_avater_cover_selected">#7f000000</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="round_corner_filter_green">#ff66ccff</color>
+    <color name="text_color">#ff434343</color>
+    <color name="timestampline">#ffe5e1de</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_background">#00ffffff</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="gifView"><attr format="integer" name="src"/><attr format="integer" name="delay"/><attr format="boolean" name="stop"/></declare-styleable>
+    <string name="aboutus_copyright">Copyright © 2016 By The Liars</string>
+    <string name="aboutus_text">\u0020\u0020\u0020\u0020 Nou can now find people who are present around the same WiFi access point as yours and indulge in a friendly chit-chat with them. This amazing app from TheLiars works quite smoothly and serves as a readily available chatting platform for the users. With NammaSIT , you can share stories, pics and files with your friends and strangers alike without having to send text messages over your mobile network.</string>
+    <string name="aboutus_text2">By The Liars SIT tumakuru</string>
+    <string name="accept">Accept</string>
+    <string name="app_name">NammaSIT</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_finish">Save</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_return">Return</string>
+    <string name="btn_yes">Confirm</string>
+    <string name="chat_btn_send">Send</string>
+    <string name="chat_dialog_record_cancel_move">Slide the recording cancel</string>
+    <string name="chat_dialog_record_cancel_up">Release your finger to cancel recordings</string>
+    <string name="chat_text_plus_file">File</string>
+    <string name="chat_text_plus_image">Picture</string>
+    <string name="chat_text_plus_takephoto">Take Photo</string>
+    <string name="chat_toast_record_shorttime">Recording time is too short to fail</string>
+    <string name="close">Shut down</string>
+    <string name="current_path_label">Current path: </string>
+    <string name="dialog_loading">Loading please wait…</string>
+    <string name="dialog_loading_failue">loading failure…</string>
+    <string name="dialog_tips">Notice</string>
+    <string name="login_dialog_saveInfo">Personal information is being stored……</string>
+    <string name="login_hint_nickname">Enter your USN</string>
+    <string name="login_text_age">Years old</string>
+    <string name="login_text_birthday">Date of birth</string>
+    <string name="login_text_birthdaytips">Reminder: Your date of birth will not appear in your profile</string>
+    <string name="login_text_changeuser">Replacement account</string>
+    <string name="login_text_female">Female</string>
+    <string name="login_text_lastlogin">Last Login: </string>
+    <string name="login_text_male">Male</string>
+    <string name="login_text_onlinestate">Online</string>
+    <string name="login_text_selectsex">Gender</string>
+    <string name="login_toast_loginfailue">Operation failed, please try to restart the program.</string>
+    <string name="login_toast_nickname">Please, Enter Your Username</string>
+    <string name="login_toast_sex">Please, choose gender</string>
+    <string name="lv_refresh_doing_end_refresh">Loading…</string>
+    <string name="lv_refresh_doing_head_refresh">Refreshing…</string>
+    <string name="lv_refresh_end_click_load_more">Click Load</string>
+    <string name="lv_refresh_end_load_more">More</string>
+    <string name="lv_refresh_head_load_more">Load more</string>
+    <string name="lv_refresh_pull_to_refresh">Refresh dropdown</string>
+    <string name="lv_refresh_refresh_lasttime">Recently Updated : </string>
+    <string name="lv_refresh_release_refresh">Refresh release</string>
+    <string name="maintab_text_emptypage">No content</string>
+    <string name="maintab_text_message">News</string>
+    <string name="maintab_text_nearby">Friends</string>
+    <string name="maintab_text_setting">Setting</string>
+    <string name="maintab_toast_logout">Press again to exit</string>
+    <string name="no_file">No files</string>
+    <string name="otherpprofile_text_device">Equipment Type:</string>
+    <string name="otherpprofile_text_ip">IPAddress:</string>
+    <string name="otherpprofile_text_userinfo">Account information</string>
+    <string name="select_path_for_save">Choose to receive a file folder</string>
+    <string name="setting_btn_aboutus">About us</string>
+    <string name="setting_btn_cleandb">Remove cache</string>
+    <string name="setting_btn_closeapp">Close</string>
+    <string name="setting_dialog_chatlog_delete_cancel">Nope</string>
+    <string name="setting_dialog_chatlog_delete_confirm">All images will be deleted! Delete chats received, voice, file?</string>
+    <string name="setting_dialog_chatlog_delete_ok">Yep</string>
+    <string name="setting_dialog_chatlog_deleting">Deleting chats……</string>
+    <string name="setting_dialog_logout_cancel">Cancel</string>
+    <string name="setting_dialog_logout_confirm">Are you sure?</string>
+    <string name="setting_dialog_logout_ok">Confirm</string>
+    <string name="setting_dialog_toast_delect_failue">Operation failed, please try to restart the program.</string>
+    <string name="setting_dialog_toast_delect_success">Delete chats success</string>
+    <string name="setting_text_myprofile">My Profile</string>
+    <string name="setting_text_myprofile_avatar">Please select your picture</string>
+    <string name="setting_text_profile">Profile</string>
+    <string name="setting_text_sysconfig">setting_text_sysconfig</string>
+    <string name="setting_text_sysconfig_aboutus">setting_text_sysconfig</string>
+    <string name="setting_text_sysconfig_sound">Sound alert</string>
+    <string name="setting_text_sysconfig_vibra">Vibration alert</string>
+    <string name="text_file_send_select">Please select the file you want to send</string>
+    <string name="toast_file_manager_unavailable">Missing File Manager</string>
+    <string name="toast_sdcard_unavailable">SD card is not available, please check</string>
+    <string name="welcome_btn_login">Login</string>
+    <string name="wifiap_btn_closeap">Close hotspots</string>
+    <string name="wifiap_btn_connecting">connecting </string>
+    <string name="wifiap_btn_connectwifi">Connected</string>
+    <string name="wifiap_btn_createap">Creating hotspots</string>
+    <string name="wifiap_btn_disconnect">Click Disconnect</string>
+    <string name="wifiap_dialog_closeap_confirm">Are you sure you need to turn off the hot?</string>
+    <string name="wifiap_dialog_createap_closewifi_confirm">Creating hotspots will close the current WiFi, confirm to continue?</string>
+    <string name="wifiap_dialog_createap_nonsupport">Your device does not support the creation hotspots</string>
+    <string name="wifiap_dialog_createap_used">wifiap_dialog_createap_used</string>
+    <string name="wifiap_dialog_login_saveInfo">Connection information is stored…</string>
+    <string name="wifiap_dialog_searchap_closeap_confirm">wifiap_dialog_searchap_closeap_confirm？</string>
+    <string name="wifiap_diolog_showpwd">Show password</string>
+    <string name="wifiap_hint_connectap_pwd">Please enter the connection password</string>
+    <string name="wifiap_text_ap_0">Hot Closed</string>
+    <string name="wifiap_text_ap_1">Turned hot</string>
+    <string name="wifiap_text_createap_creating">Creating hotspots…</string>
+    <string name="wifiap_text_createap_failue">createap_failue</string>
+    <string name="wifiap_text_createap_succeed">Hot create success!</string>
+    <string name="wifiap_text_wifi_0">WiFi Unopened</string>
+    <string name="wifiap_text_wifi_1_0">WiFi Turned on, not connected</string>
+    <string name="wifiap_text_wifi_connected">Connected to</string>
+    <string name="wifiap_text_wifi_disconnect">WiFi Connection has been disconnected</string>
+    <string name="wifiap_toast_connectap_error">Connection error, please check the password and then try to connect.</string>
+    <string name="wifiap_toast_connectap_error_1">Connection error, try to reconnect.</string>
+    <string name="wifiap_toast_connectap_unavailable">Please create a hotspot or connect a hotspot</string>
+    <style name="Animation.Dialog" parent="@android:style/Animation">
+		<item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+		<item name="android:windowExitAnimation">@anim/dialog_exit</item>
+	</style>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar"/>
+    <style name="BaseDialog" parent="@android:style/Theme.Dialog"/>
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+		<item name="android:textSize">13.0sp</item>
+		<item name="android:textColor">@color/font_value</item>
+		<item name="android:background">@drawable/btn_default</item>
+	</style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+		<item name="android:windowBackground">@color/transparent</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:backgroundDimEnabled">true</item>
+	</style>
+    <style name="DialogStyle" parent="@android:style/Theme.Dialog">
+		<item name="android:windowBackground"> @color/transparent</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+    <style name="EditTextStyle" parent="@android:style/Widget.EditText">
+		<item name="android:textColor">@color/text_color</item>
+		<item name="android:textColorHint">@color/light_notes_color</item>
+		<item name="android:background">@drawable/edittext_default</item>
+		<item name="android:cursorVisible">true</item>
+		<item name="android:textCursorDrawable">@null</item>
+	</style>
+    <style name="Popup_Animation_Alpha" parent="@android:style/Animation">
+		<item name="android:windowEnterAnimation">@anim/layout_alpha_in</item>
+		<item name="android:windowExitAnimation">@anim/layout_alpha_out</item>
+	</style>
+    <style name="Popup_Animation_DownScale" parent="@android:style/Animation">
+		<item name="android:windowEnterAnimation">@anim/enter_dropdown</item>
+		<item name="android:windowExitAnimation">@anim/exit_scale</item>
+	</style>
+    <style name="Popup_Animation_DownUp" parent="@android:style/Animation">
+		<item name="android:windowEnterAnimation">@anim/enter_dropdown</item>
+		<item name="android:windowExitAnimation">@anim/exit_dropup</item>
+	</style>
+    <style name="Popup_Animation_SlideUp" parent="@android:style/Animation">
+		<item name="android:windowEnterAnimation">@anim/enter_dropup</item>
+		<item name="android:windowExitAnimation">@anim/exit_dropdown</item>
+	</style>
+    <style name="Style_Dialog_Button">
+		<item name="android:layout_gravity">center_vertical|left</item>
+		<item name="android:textSize">15sp</item>
+		<item name="android:textColor">#ff51545a</item>
+		<item name="android:textColorHint">#ffbebebe</item>
+		<item name="android:background">@null</item>
+		<item name="android:paddingLeft">10.0dp</item>
+		<item name="android:paddingRight">10.0dp</item>
+		<item name="android:paddingTop">8.0dp</item>
+		<item name="android:paddingBottom">8.0dp</item>
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="TextViewStyle" parent="@android:style/Widget.TextView">
+		<item name="android:textColor">@color/font_value</item>
+		<item name="android:textColorHint">@color/light_notes_color</item>
+		<item name="android:textColorLink">@color/link_color</item>
+		<item name="android:gravity">center_vertical</item>
+	</style>
+    <style name="Theme.App" parent="@style/AppBaseTheme">
+		<item name="android:colorForeground">@color/font_value</item>
+		<item name="android:colorBackground">@color/black</item>
+		<item name="android:buttonStyle">@style/ButtonStyle</item>
+		<item name="android:windowNoTitle">false</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:editTextStyle">@style/EditTextStyle</item>
+		<item name="android:textViewStyle">@style/TextViewStyle</item>
+		<item name="android:textColorLink">@color/link_color</item>
+	</style>
+    <style name="Theme.Light.CustomDialog" parent="@android:style/Theme.Light.NoTitleBar">
+		<item name="android:windowBackground">@color/transparent</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:textSize">16.0sp</item>
+		<item name="android:textColor">#ff555555</item>
+		<item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+		<item name="android:backgroundDimEnabled">true</item>
+		<item name="android:windowSoftInputMode">adjustPan</item>
+	</style>
+    <style name="Theme.Light.FullScreenDialogAct" parent="@style/BaseDialog">
+		<item name="android:windowBackground">@color/transparent</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:textSize">16.0sp</item>
+		<item name="android:textColor">#ff555555</item>
+		<item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+		<item name="android:backgroundDimEnabled">true</item>
+		<item name="android:windowSoftInputMode">adjustPan</item>
+	</style>
+    <style name="content_margin">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginLeft">20.0dip</item>
+		<item name="android:layout_marginTop">10.0dip</item>
+		<item name="android:layout_marginRight">20.0dip</item>
+	</style>
+    <style name="imageview">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:scaleType">centerInside</item>
+	</style>
+    <style name="scrollview_margin">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="sort_dialog" parent="@android:style/Theme.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="textview_large">
+		<item name="android:textSize">22.0sp</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="textview_small">
+		<item name="android:textColor">@color/gray</item>
+		<item name="android:gravity">left|center</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+</resources>
