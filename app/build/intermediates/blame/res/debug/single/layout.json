@@ -1,99 +1,27 @@
 [
     {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_plus.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_switcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_plus.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_emotionbar.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_emotionbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setavater.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_setavater.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifiap.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_wifiap.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setavater.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_setavater.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_toast.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_avatar.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_avatar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagebrowser.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagebrowser.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_message.xml"
     },
     {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
+    },
+    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_fullscreen_mask.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_fullscreen_mask.xml"
     },
     {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_plus.xml"
+    },
+    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifiap.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_wifiap.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_connectwifi.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_connectwifi.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_chat_user.xml",
@@ -104,48 +32,16 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagebrowser.xml"
     },
     {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
+    },
+    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_audioditor.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_audioditor.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_voice.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_voice.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifiap.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_wifiap.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_chat.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_emotionbar.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_emotionbar.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settting.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_settting.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_textditor.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_textditor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagebrowser.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagebrowser.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
@@ -156,40 +52,24 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_timestamp.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_fullscreen_mask.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_fullscreen_mask.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_foot.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_foot.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\record_dialog.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_tab_layout.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\actionbar_tab_layout.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_avatar.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_avatar.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_emotionbar.xml",
@@ -198,6 +78,10 @@
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherprofile.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_otherprofile.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setavater.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_setavater.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
@@ -212,372 +96,100 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherprofile.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_otherprofile.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_tab_layout.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\actionbar_tab_layout.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_avatar.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_avatar.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_file.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_file.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_foot.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_foot.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setavater.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_setavater.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_receive_template.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_receive_template.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_audioditor.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_audioditor.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_voice.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_voice.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_timestamp.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_timestamp.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_voice.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_voice.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_file.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_head.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_head.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_message.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_friends.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_fullscreen_mask.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_fullscreen_mask.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_image.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_toast.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_switcher.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_emote.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_chat_user.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_chat_user.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherprofile.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_otherprofile.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_text.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_connectwifi.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_connectwifi.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_receive_template.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_receive_template.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_file.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_friends.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_wifiap.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_wifiap.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_audioditor.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_audioditor.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_emote.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_connectwifi.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_dialog_connectwifi.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_head.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_head.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_textditor.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_message_textditor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_toast.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\record_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_avatar.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_avatar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_message.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settting.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_settting.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_wifiap.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_wifiap.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_timestamp.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_timestamp.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_emote.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_wifiap.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_wifiap.xml"
     },
     {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_tab_layout.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\actionbar_tab_layout.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\record_dialog.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settting.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\fragment_settting.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_text.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_welcome.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_foot.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_foot.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_head.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_head.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_plus.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_tab_layout.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\actionbar_tab_layout.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_emote.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_chat_user.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_chat_user.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_team.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listitem_team.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_image.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_multilistview_head.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\listview_multilistview_head.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_receive_template.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\message_group_receive_template.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\layout\\record_dialog.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_team.xml",

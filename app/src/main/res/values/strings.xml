@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 		
-	<string name="app_name">NammaSIT</string>
+	<string name="app_name">Campus-Chat</string>
 	<string name="btn_return">Return</string>
 	<string name="btn_next">Next</string>
 	<string name="dialog_tips">Notice</string>
@@ -13,7 +13,7 @@
 	
 	<string name="welcome_btn_login">Login</string>
 	
-	<string name="login_hint_nickname">Enter your USN</string>
+	<string name="login_hint_nickname">Enter yout Name</string>
 	<string name="login_text_onlinestate">Online</string>
 	<string name="login_text_birthday">Date of birth</string>
 	<string name="login_text_age">Years old</string>
@@ -93,15 +93,15 @@
 	<string name="setting_dialog_toast_delect_failue">Operation failed, please try to restart the program.</string>
 	<string name="setting_dialog_toast_delect_success">Delete chats success</string>
 
-	<string name="aboutus_copyright">Copyright © 2016 By The Liars</string>
+	<string name="aboutus_copyright">Copyright © 2016 By Vicasin</string>
 
 	<string name="aboutus_text">\u0020\u0020\u0020\u0020 Nou can now find people who are present around the same WiFi access point as yours and indulge in a friendly chit-chat with them. This amazing app from TheLiars works quite smoothly and serves as a readily available chatting platform for the users. With NammaSIT , you can share stories, pics and files with your friends and strangers alike without having to send text messages over your mobile network.</string>
 	<string name="aboutus_text2">By The Liars SIT tumakuru</string>
 
 	<string name="maintab_text_emptypage">No content</string>
-	<string name="maintab_text_message">News</string>
+	<string name="maintab_text_message">Notifications</string>
 	<string name="maintab_text_nearby">Friends</string>
-	<string name="maintab_text_setting">Setting</string>
+	<string name="maintab_text_setting">Settings</string>
 	<string name="maintab_toast_logout">Press again to exit</string>
 
     <string name="lv_refresh_end_load_more">More</string>

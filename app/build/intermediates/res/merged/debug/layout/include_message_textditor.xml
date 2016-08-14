@@ -43,7 +43,7 @@
         </RelativeLayout>
     </LinearLayout>
 
-    <theliars.nammasit.view.EmoticonsEditText
+    <campuschat.wifi.view.EmoticonsEditText
         android:id="@+id/chat_textditor_eet_editer"
         android:layout_width="0dip"
         android:layout_height="wrap_content"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="theliars.nammasit"
+    package="campuschat.wifi"
     android:installLocation="auto"
-    android:versionCode="2"
-    android:versionName="2.5.150310" >
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -34,7 +34,7 @@
         android:smallScreens="true" />
 
     <application
-        android:name="theliars.nammasit.BaseApplication"
+        android:name="campuschat.wifi.BaseApplication"
         android:allowBackup="false"
         android:hardwareAccelerated="false"
         android:icon="@drawable/ic_launcher"
@@ -42,7 +42,7 @@
         android:largeHeap="true"
         android:theme="@style/Theme.App" >
         <activity
-            android:name="theliars.nammasit.activity.WelcomeActivity"
+            android:name="campuschat.wifi.activity.WelcomeActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -51,49 +51,49 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.LoginActivity"
+            android:name="campuschat.wifi.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.WifiapActivity"
+            android:name="campuschat.wifi.activity.WifiapActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.MainTabActivity"
+            android:name="campuschat.wifi.activity.MainTabActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.message.ChatActivity"
+            android:name="campuschat.wifi.activity.message.ChatActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.SettingInfoActivity"
+            android:name="campuschat.wifi.activity.SettingInfoActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.ChooseAvatarActivity"
+            android:name="campuschat.wifi.activity.ChooseAvatarActivity"
             android:screenOrientation="portrait" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".activity.SettingMyInfoActivity" />
+                android:value=".activity.SettingInfoActivity" />
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.AboutActivity"
+            android:name="campuschat.wifi.activity.AboutActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.imagefactory.ImageFactoryActivity"
+            android:name="campuschat.wifi.activity.imagefactory.ImageFactoryActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.OtherProfileActivity"
+            android:name="campuschat.wifi.activity.OtherProfileActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="theliars.nammasit.activity.ImageBrowserActivity"
+            android:name="campuschat.wifi.activity.ImageBrowserActivity"
             android:screenOrientation="portrait" >
         </activity>
     </application>

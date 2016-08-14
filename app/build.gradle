@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "theliars.nammasit"
+        applicationId "campuschat.wifi"
         minSdkVersion 14
         targetSdkVersion 19
     }

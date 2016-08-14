@@ -4,60 +4,16 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\corners_avatar.xml"
     },
     {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_index_bg.png",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\pic_index_bg.png"
+    },
+    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_gray.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_simplelist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_default.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\listview_progressbar_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_download_process_bar.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bglistitem_selector_user.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_plusitem.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_plusitem.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
@@ -68,14 +24,6 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_red.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bglistitem_selector_user.xml"
     },
@@ -84,32 +32,20 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn2.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_simplelist.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_plusitem.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_plusitem.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_avatar.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\corners_avatar.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglistitem_selector_user.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bglistitem_selector_user.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_repeat.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\shape_gray_round_frame_n.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
@@ -120,132 +56,32 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_sendmsg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_selected.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_send.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_sendmsg.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_press.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_press.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_selected.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_multiline.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_repeat.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_send.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
     },
     {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\listview_progressbar_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default_flat.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_filter_cover.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_filter_cover.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_multiline.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_chat_repeat.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_chat_repeat.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_gray.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_status_failed.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_status_failed.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
@@ -256,119 +92,39 @@
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default_flat.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn2.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn3.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_red.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\listview_progressbar_bg.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn2.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn2.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_avatar.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\corners_avatar.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\shape_gray_round_frame_n.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_gray.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_gray.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_red.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chatbtn3.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_chatbtn3.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_download_process_bar.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_download_process_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_simplelist.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_simplelist.xml"
-    },
-    {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_nomarl.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_nomarl.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_default.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_multiline.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_multiline.xml"
     },
     {
-        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
-        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_default_flat.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_receive.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_receive.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
     },
     {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_transition.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\list_selector_transition.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_sendmsg.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\drawable\\edittext_sendmsg.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_listitem_selector.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_dialog_listitem_selector.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_message_box_send.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\bg_message_box_send.xml"
     },
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_filter_cover_selected.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\round_corner_filter_cover_selected.xml"
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_progressbar_bg.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\listview_progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emote_selector.xml",
+        "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\drawable\\btn_emote_selector.xml"
     }
 ]

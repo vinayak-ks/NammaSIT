@@ -4,7 +4,7 @@
 	android:layout_height="match_parent"
 	android:orientation="vertical" >
 
-	<theliars.nammasit.view.MultiListView
+	<campuschat.wifi.view.MultiListView
 		android:id="@+id/friends_list"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
@@ -12,7 +12,7 @@
 		android:divider="@null"
 		android:fadingEdge="none"
 		android:listSelector="@drawable/list_selector_transition" >
-	</theliars.nammasit.view.MultiListView>
+	</campuschat.wifi.view.MultiListView>
 
 
 

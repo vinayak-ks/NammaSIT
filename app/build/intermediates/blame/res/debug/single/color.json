@@ -1,23 +1,7 @@
 [
     {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switcher_textcolor.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\color\\switcher_textcolor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\profile_bottom_text_color.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\color\\profile_bottom_text_color.xml"
-    },
-    {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switcher_textcolor.xml",
         "source": "D:\\WifiChat-master1\\app\\src\\main\\res\\color\\switcher_textcolor.xml"
-    },
-    {
-        "merged": "E:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\profile_bottom_text_color.xml",
-        "source": "E:\\WifiChat-master1\\app\\src\\main\\res\\color\\profile_bottom_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switcher_textcolor.xml",
-        "source": "C:\\Users\\Vinay\\Desktop\\WifiChat-master1\\app\\src\\main\\res\\color\\switcher_textcolor.xml"
     },
     {
         "merged": "D:\\WifiChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\color\\profile_bottom_text_color.xml",

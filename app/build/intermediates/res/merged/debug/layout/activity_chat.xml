@@ -12,7 +12,7 @@
 			android:layout_width="match_parent"
 			android:layout_height="match_parent" >
 
-			<theliars.nammasit.view.MultiListView
+			<campuschat.wifi.view.MultiListView
 				android:id="@+id/chat_clv_list"
 				android:layout_width="match_parent"
 				android:layout_height="match_parent"
@@ -26,7 +26,7 @@
 				android:paddingRight="4dip"
 				android:scrollbars="none"
 				android:scrollingCache="false" >
-			</theliars.nammasit.view.MultiListView>
+			</campuschat.wifi.view.MultiListView>
 
 			<LinearLayout
 				android:id="@+id/chat_layout_editor"
@@ -36,7 +36,7 @@
 				android:background="@drawable/bg_chatbar_textmode"
 				android:orientation="vertical" >
 
-				<theliars.nammasit.view.ScrollLayout
+				<campuschat.wifi.view.ScrollLayout
 					android:id="@+id/chat_slayout_scroll"
 					android:layout_width="match_parent"
 					android:layout_height="52dip" >
@@ -44,7 +44,7 @@
 					<include layout="@layout/include_message_textditor" />
 
 					<include layout="@layout/include_message_audioditor" />
-				</theliars.nammasit.view.ScrollLayout>
+				</campuschat.wifi.view.ScrollLayout>
 
 				<LinearLayout
 					android:id="@+id/chat_layout_rounds"
@@ -65,7 +65,7 @@
 				android:layout_alignParentBottom="true"
 				android:background="@color/msg_editor_backgroud" >
 
-				<theliars.nammasit.view.EmoteInputView
+				<campuschat.wifi.view.EmoteInputView
 					android:id="@+id/chat_eiv_inputview"
 					android:layout_width="match_parent"
 					android:layout_height="wrap_content"

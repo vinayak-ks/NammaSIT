@@ -3,18 +3,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/pic_index_bg"
-    android:orientation="vertical" >
+     >
 
-    <ImageView
+<!--    <ImageView
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:paddingTop="30dp"
         android:scaleType="fitXY"
-        android:src="@drawable/pic_index_logo"
+        android:src="@drawable/logocamp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="63dp" />-->
 
-    <LinearLayout
+ <!--   <LinearLayout
         android:id="@+id/welcome_linear_ctrlbar"
         android:layout_width="match_parent"
         android:layout_height="73dp"
@@ -34,17 +34,16 @@
             android:text="@string/welcome_btn_login"
             android:textColor="@color/profile_bottom_text_color"
             android:textSize="14sp" />
-    </LinearLayout>
+    </LinearLayout>-->
 
-    <theliars.nammasit.view.HandyTextView
+    <campuschat.wifi.view.HandyTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="5dp"
-        android:layout_above="@id/welcome_linear_ctrlbar"
         android:text="Developed By Team-VicaSiN"
         android:textColor="@color/white"
         android:textSize="12sp"
-        android:id="@+id/view" />
+        android:id="@+id/view"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

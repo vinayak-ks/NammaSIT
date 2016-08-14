@@ -4,7 +4,7 @@
 	android:layout_height="match_parent"
 	android:background="@color/background_normal" >
 
-	<theliars.nammasit.view.PagerScrollView
+	<campuschat.wifi.view.PagerScrollView
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
 		android:fadingEdge="none" >
@@ -18,6 +18,6 @@
 
 			<include layout="@layout/include_otherprofile_accountinfo" />
 		</LinearLayout>
-	</theliars.nammasit.view.PagerScrollView>
+	</campuschat.wifi.view.PagerScrollView>
 
 </RelativeLayout>
